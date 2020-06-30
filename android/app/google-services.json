@@ -1,0 +1,72 @@
+{
+  "project_info": {
+    "project_number": "871078371322",
+    "firebase_url": "https://foody-rnlab.firebaseio.com",
+    "project_id": "foody-rnlab",
+    "storage_bucket": "foody-rnlab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871078371322:android:1ef03e326f07537ce5ce43",
+        "android_client_info": {
+          "package_name": "io.rnlab.lekima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871078371322-3edq34j3h6l6kktnp6i9bln2gkjjnhlp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.rnlab.lekima",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "871078371322-te6d2mi2ii4i33ir64hfaff9nbelm37h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.rnlab.lekima",
+            "certificate_hash": "ca289a34b2a9813b5eafb7699d21e117cf373f7e"
+          }
+        },
+        {
+          "client_id": "871078371322-jkh747c99sqq76isft8vme8kqlsmv7sj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.rnlab.lekima",
+            "certificate_hash": "53cf18fbc70e97aee70dc958c83c275ed2fea854"
+          }
+        },
+        {
+          "client_id": "871078371322-aavesl7p6i5t4anad0o9qjpe3afnlemv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeOIdZZvQRzC6MsSNaB-2j4hJ9Le-3LOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871078371322-aavesl7p6i5t4anad0o9qjpe3afnlemv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "871078371322-6nv2cd9igv8k5jfgd0r1cgdiuopm0mcn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.rnlab.lekima",
+                "app_store_id": "1515884815"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
