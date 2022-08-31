@@ -32,7 +32,7 @@
     "immutable": "^4.0.0-rc.12",
     "lodash": "^4.17.15",
     "moment": "^2.26.0",
-    "moment-timezone": "^0.5.31",
+    "moment-timezone": "^0.5.35",
     "password-validator": "^5.0.3",
     "qs": "^6.9.4",
     "react": "16.11.0",
